@@ -99,3 +99,5 @@ freeCodeCamp should align marketing, events, or curriculum launches with traffic
 This project was built as part of the **freeCodeCamp Data Analysis with Python Certification**.
 
 > Feel free to fork, adapt, or expand this project for your own data science portfolio!
+> Thank you and God Bless you
+> Jesus Loves you
